@@ -7,12 +7,12 @@ pre: " <b> 1.5. </b> "
 
 ---
 
-### 📌 Khu vực ăn uống
+#### Khu vực ăn uống
 - **Không ăn uống** tại khu vực làm việc chính.
 - Chỉ được phép ăn uống tại khu vực pantry (chỉ đối với tầng 46) hoặc khu vực được chỉ định.
 - Đảm bảo vệ sinh sạch sẽ sau khi sử dụng khu vực ăn uống chung.
 
-### 📌 Quy định sử dụng đồ dùng văn phòng
+#### Quy định sử dụng đồ dùng văn phòng
 
 **Tầng 26:**
 **KHÔNG ĐƯỢC PHÉP** sử dụng khu vực ngoài **pantry** của tầng **26** bao gồm:  
@@ -27,16 +27,7 @@ pre: " <b> 1.5. </b> "
 - Sữa đặc
 - Sữa tươi
 
-**Tầng 46:**
-**CHỈ ĐƯỢC PHÉP** sử dụng khu vực **ngoài pantry** của **tầng 46** bao gồm:
-- Cà phê
-- Đường
-- Nước lọc
-- Trà
-
-Ngoài những thứ vừa **được liệt kê** trên thì **KHÔNG ĐƯỢC PHÉP** tự ý dùng gì khác.
-
-### 📌 Các quy định khác
+#### Các quy định khác
 
 - Nếu ở tầng 26, các bạn có thể mang nước uống lọc từ bên ngoài vào để uống
 - **Tuyệt đối không được mang** cà phê hoặc các loại nước có màu khác vào vì lí do sàn lại khu vực làm việc là sàn thảm và khó vệ sinh, nếu có thì chi phí vệ sinh rất cao.

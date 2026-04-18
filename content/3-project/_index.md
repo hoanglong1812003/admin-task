@@ -6,13 +6,37 @@ chapter: false
 pre: " <b> 3. </b> "
 ---
 
-## 1. Nội dung bắt buộc của project
+### 1. Hình thức và công cụ làm project
+
+#### 1.1. Hình thức bắt buộc
+
+* Workshop website: [Mẫu workshop](https://workshop-sample.fcjuni.com/)
+* Template: [FCAJ-workshop-template](https://github.com/thienluhoan/fcj-workshop-template) trên GitHub (Dựa trên template này, hãy làm 1 bản riêng biệt dành cho bản thân)
+
+#### 1.2. Yêu cầu bắt buộc
+
+* Có **đầy đủ 2 ngôn ngữ (vi / en)** cho phần nội dung chính
+* Cấu trúc rõ ràng theo các mục đã nêu:
+  * Hình ảnh minh họa
+  * Sơ đồ kiến trúc
+  * Code snippet
+  * File đính kèm (CloudFormation, Dockerfile, script, …) nếu phù hợp
+* Hãy tham khảo từ **project mẫu** (link tại phần 1.1) để làm đúng cấu trúc
+
+{{% notice warning %}}
+Đặc biệt, phần 5. Workshop, **Project phải tự triển khai, tự làm và viết**, không copy y nguyên project mẫu
+{{% /notice %}}
+
+
+---
+
+### 2. Nội dung bắt buộc của báo cáo / template
 
 Project (báo cáo cuối khóa) **phải được viết bằng 2 ngôn ngữ: tiếng Anh và tiếng Việt**.
 
-### Các phần tối thiểu cần có trong báo cáo / project
+### Các phần tối thiểu cần có trong báo cáo / template (link tại phần 1.1)
 
-#### 1.1. Thông tin sinh viên
+#### 2.1. Thông tin sinh viên
 
 * Họ tên
 * Số điện thoại
@@ -23,7 +47,7 @@ Project (báo cáo cuối khóa) **phải được viết bằng 2 ngôn ngữ: 
 * Vị trí thực tập
 * Thời gian thực tập
 
-#### 1.2. Worklog (Nhật ký theo tuần)
+#### 2.2. Worklog (Nhật ký theo tuần)
 
 * Ghi rõ từ **Week 1 → Week 12**
 * Mỗi tuần mô tả:
@@ -31,7 +55,7 @@ Project (báo cáo cuối khóa) **phải được viết bằng 2 ngôn ngữ: 
   * Công việc đã làm
   * Kết quả đạt được
 
-#### 1.3. Proposal (Đề xuất dự án)
+#### 2.3. Proposal (Đề xuất dự án)
 
 * Tổng quan dự án
 * Mục tiêu
@@ -43,7 +67,7 @@ Project (báo cáo cuối khóa) **phải được viết bằng 2 ngôn ngữ: 
 
 > Ví dụ: **IoT Weather Platform trên AWS**
 
-#### 1.4. Events Participated
+#### 2.4. Events Participated
 
 Mỗi event (Event 1, Event 2, …) cần có:
 
@@ -54,7 +78,7 @@ Mỗi event (Event 1, Event 2, …) cần có:
 * Nội dung chính
 * Bài học rút ra / đóng góp cá nhân
 
-#### 1.5. Workshop (Project kỹ thuật chính)
+#### 2.5. Workshop (Project kỹ thuật chính)
 
 * Overview
 * Prerequisite
@@ -67,7 +91,7 @@ Mỗi event (Event 1, Event 2, …) cần có:
   * Test
   * Clean-up
 
-#### 1.6. Self-evaluation (Tự đánh giá)
+#### 2.6. Self-evaluation (Tự đánh giá)
 
 Đánh giá theo các tiêu chí sau, mỗi tiêu chí chọn **Tốt / Khá / Trung bình** và có nhận xét:
 
@@ -80,7 +104,7 @@ Mỗi event (Event 1, Event 2, …) cần có:
 * Giải quyết vấn đề
 * Đóng góp cho dự án
 
-#### 1.7. Sharing and Feedback
+#### 2.7. Sharing and Feedback
 
 * Cảm nhận về chương trình
 * Mức độ hài lòng
@@ -89,28 +113,7 @@ Mỗi event (Event 1, Event 2, …) cần có:
 
 ---
 
-## 2. Hình thức và công cụ làm project
-
-### 2.1. Hình thức khuyến khích
-
-* Workshop website: [Mẫu workshop](https://workshop-sample.fcjuni.com/)
-* Template gợi ý: [FCAJ-workshop-template](https://github.com/thienluhoan/fcj-workshop-template) trên GitHub
-
-### 2.2. Yêu cầu bắt buộc
-
-* Có **đầy đủ 2 ngôn ngữ (vi / en)** cho phần nội dung chính
-* Cấu trúc rõ ràng theo các mục đã nêu:
-
-  * Hình ảnh minh họa
-  * Sơ đồ kiến trúc
-  * Code snippet
-  * File đính kèm (CloudFormation, Dockerfile, script, …) nếu phù hợp
-* Có thể tham khảo **project mẫu** (link trong tài liệu)
-* **Project phải tự viết**, không copy y nguyên project mẫu
-
----
-
-## 3. Yêu cầu đối với Project kỹ thuật (Workshop)
+### 3. Yêu cầu đối với Project kỹ thuật (Workshop)
 
 Project nên:
 
@@ -123,7 +126,7 @@ Project nên:
   * …
 * Sử dụng **ít nhất 3 dịch vụ AWS**
 
-### 3.1. Project cần thể hiện được
+#### 3.1. Project cần thể hiện được
 
 * Thiết kế kiến trúc:
 
@@ -147,9 +150,9 @@ Project nên:
 
 ---
 
-## 4. Thang điểm mẫu cho Project
+### 4. Thang điểm mẫu cho Project
 
-### 4.1. Ý tưởng & mục tiêu (1.0 điểm)
+#### 4.1. Ý tưởng & mục tiêu (1.0 điểm)
 
 * **Bối cảnh & bài toán**:
 
@@ -166,7 +169,7 @@ Project nên:
   * Use-case gắn với FCAJ / AWS
   * Không quá chung chung, không lệch chủ đề cloud
 
-### 4.2. Kiến trúc & thiết kế kỹ thuật (2.0 điểm)
+#### 4.2. Kiến trúc & thiết kế kỹ thuật (2.0 điểm)
 
 * **Sơ đồ kiến trúc**:
 
@@ -187,7 +190,7 @@ Project nên:
   * Scale: Auto Scaling, event-driven, SQS, …
   * Logging / Monitoring: CloudWatch, Alarm
 
-### 4.3. Triển khai & lab step-by-step (2.0 điểm)
+#### 4.3. Triển khai & lab step-by-step (2.0 điểm)
 
 * **Prerequisite**:
 
@@ -214,7 +217,7 @@ Project nên:
   * Xóa bucket
   * Xóa alarm
 
-### 4.4. Tài liệu workshop & trình bày (0.5 điểm)
+#### 4.4. Tài liệu workshop & trình bày (0.5 điểm)
 
 * **Song ngữ**:
 
@@ -232,7 +235,7 @@ Project nên:
   * Có hình ảnh minh họa
   * Ít lỗi chính tả
 
-### 4.5. Đóng góp cá nhân (0.5 điểm)
+#### 4.5. Đóng góp cá nhân (0.5 điểm)
 
 * **Mức độ tự làm**:
 

@@ -7,11 +7,11 @@ pre: " <b> 4. </b> "
 ---
 
 
-### 📌 Hình thức xử lý vi phạm
+#### Hình thức xử lý vi phạm
 
 #### Cách tính điểm trừ
 - Mỗi lần đi trễ > 45p => vắng: Trừ **0.1 điểm**/lần
-- Không tham dự event: Trừ **0.5 điểm**/lần
+- Không tham dự event bắt buộc: Trừ **0.5 điểm**/lần
 - Vi phạm quy định trang phục: Trừ **0.5 điểm**/lần
 - Vi phạm quy định di chuyển trong văn phòng: Trừ **0.5 điểm**/lần
 - Vi phạm nội quy về ăn uống và sử dụng đồ dùng tại văn phòng: Trừ **0.5 điểm**/lần

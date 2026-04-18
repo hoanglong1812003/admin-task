@@ -7,11 +7,11 @@ pre: " <b> 1.3. </b> "
 
 ---
 
-### 📌 Trang phục yêu cầu
+#### Trang phục yêu cầu
 
 - Quy định chung:
   - **Bắt buộc mặc áo đồng phục FACJ** khi đến văn phòng (nếu đã có)
-  - **Bắt buộc mặc quần dài** khi làm việc tại văn phòng (không mặc quần short, quần thể thao)
+  - **Bắt buộc mặc quần dài** khi làm việc tại văn phòng (không mặc quần short, quần thể thao, váy ngắn)
   - Đi **giày** lịch sự, sạch sẽ (không đi dép lê)
   - Trang phục phải gọn gàng, chỉnh chu và phù hợp với môi trường làm việc chuyên nghiệp
   - **Đeo thẻ visitor** trong suốt thời gian làm việc tại văn phòng (thẻ visitor sẽ nói rõ ở phần [Hướng dẫn di chuyển đến văn phòng](2-instructions/2.4-moving))
@@ -21,7 +21,7 @@ pre: " <b> 1.3. </b> "
   - Đeo thẻ sinh viên trong suốt quá trình học tập và làm việc tại văn phòng
   - **Lưu ý: Vi phạm sẽ bị trừ điểm phần tác phong.**
 
-### 📌 Tác phong làm việc
+#### Tác phong làm việc
 
 - Giữ không gian làm việc sạch sẽ và gọn gàng
 - Không nói chuyện riêng gây ồn ào, ảnh hưởng đến người khác

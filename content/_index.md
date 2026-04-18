@@ -29,5 +29,5 @@ II. [Hướng dẫn](2-instructions/)
   
 III. [Hướng dẫn project](3-project/)
 
-IV. [Xử lý vị phạm](4-violations/)
+IV. [Xử lý vi phạm](4-violations/)
 

@@ -8,12 +8,12 @@ pre: " <b> 2.3. </b> "
 
 Dưới đây là hướng dẫn gửi xe máy khi các bạn đến văn phòng AWS để học tập và làm việc
 
-### 📌 Lưu ý
+#### Lưu ý
 
 - **KHÔNG** gửi xe dưới tầng hầm của toà nhà Bitexco vì lí do chi phí cao
 
 
-### 📌 Các địa điểm gửi xe
+#### Các địa điểm gửi xe
 
 #### 1. Bãi gửi xe máy Song Lâm (khuyến khích)
   - **Địa chỉ:** 25 Huỳnh Thúc Kháng, phường Sài Gòn, TP. Hồ Chí Minh

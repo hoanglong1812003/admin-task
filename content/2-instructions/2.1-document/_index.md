@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 2.1. </b> "
 ---
 
-### 📌 Các nguồn tài liệu học tập trong chương trình FACJ Workforce
+#### Các nguồn tài liệu học tập trong chương trình FACJ Workforce
 
 #### Hệ thống bài giảng trên youtube
 

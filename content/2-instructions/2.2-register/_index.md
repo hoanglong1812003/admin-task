@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 2.2. </b> "
 ---
 
-### 📌 Trước khi lên văn phòng
+#### Trước khi lên văn phòng
 
 Các bạn cần đăng ký trước khi lên văn phòng để team admin nắm danh sách và gửi về tòa nhà.
 
@@ -33,13 +33,13 @@ Các bạn cần đăng ký trước khi lên văn phòng để team admin nắm
 - Mỗi người chỉ được đăng ký 1 lần duy nhất.
 - Chỉ sử dụng 1 email duy nhất để đăng ký trong quá trình học tập và làm việc.
 
-### 📌 Sau khi đăng ký lên văn phòng
+#### Sau khi đăng ký lên văn phòng
 
 Sau khi đăng ký thành công, trang web sẽ có giao diện như sau:
 
 ![app-ui-2](/images/2-instructions/app-ui-2.png)
 
-### 📌 Một số lưu ý
+#### Một số lưu ý
 
 - Sau khi đăng ký thành công các bạn **CHƯA ĐỦ ĐIỀU KIỆN** để lên văn phòng. Các bạn cần đợi email thông báo rằng việc đăng ký của bạn **ĐÃ ĐƯỢC DUYỆT** tương tự như hình sau:
 
