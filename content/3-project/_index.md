@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 3. </b> "
 ---
 
-### 1. Hình thức và công cụ làm project
+### 1. Hình thức và công cụ làm báo cáo
 
 #### 1.1. Hình thức bắt buộc
 
@@ -21,10 +21,10 @@ pre: " <b> 3. </b> "
   * Sơ đồ kiến trúc
   * Code snippet
   * File đính kèm (CloudFormation, Dockerfile, script, …) nếu phù hợp
-* Hãy tham khảo từ **project mẫu** (link tại phần 1.1) để làm đúng cấu trúc
+* Hãy tham khảo từ **báo cáo mẫu** (link tại phần 1.1) để làm đúng cấu trúc
 
 {{% notice warning %}}
-Đặc biệt, phần 5. Workshop, **Project phải tự triển khai, tự làm và viết**, không copy y nguyên project mẫu
+Đặc biệt, phần 5. Workshop, **Workshop phải tự triển khai, tự làm như 1 dự án cá nhân và viết thành báo cáo cho mục này**, không copy y nguyên Workshop mẫu
 {{% /notice %}}
 
 
@@ -32,9 +32,9 @@ pre: " <b> 3. </b> "
 
 ### 2. Nội dung bắt buộc của báo cáo / template
 
-Project (báo cáo cuối khóa) **phải được viết bằng 2 ngôn ngữ: tiếng Anh và tiếng Việt**.
+**Báo cáo** cuối khóa **phải được viết bằng 2 ngôn ngữ: tiếng Anh và tiếng Việt**. (link tại phần 1.1)
 
-### Các phần tối thiểu cần có trong báo cáo / template (link tại phần 1.1)
+### Các phần tối thiểu cần có trong báo cáo / template
 
 #### 2.1. Thông tin sinh viên
 
@@ -67,7 +67,15 @@ Project (báo cáo cuối khóa) **phải được viết bằng 2 ngôn ngữ: 
 
 > Ví dụ: **IoT Weather Platform trên AWS**
 
-#### 2.4. Events Participated
+#### 2.4. Blogs Post
+
+Mỗi nhóm cần phải nghiên cứu hoặc chia sẻ về những gì mình học được thành 3 bài blogs sau đó post lên [AWS Study Group](https://www.facebook.com/groups/awsstudygroupfcj), ví dụ:
+
+* Tính năng mới của services
+* Tối ưu chi phí bằng cách,...
+* Sử dụng services để,...
+
+#### 2.5. Events Participated
 
 Mỗi event (Event 1, Event 2, …) cần có:
 
@@ -78,7 +86,7 @@ Mỗi event (Event 1, Event 2, …) cần có:
 * Nội dung chính
 * Bài học rút ra / đóng góp cá nhân
 
-#### 2.5. Workshop (Project kỹ thuật chính)
+#### 2.6. Workshop (Project kỹ thuật chính)
 
 * Overview
 * Prerequisite
@@ -91,7 +99,7 @@ Mỗi event (Event 1, Event 2, …) cần có:
   * Test
   * Clean-up
 
-#### 2.6. Self-evaluation (Tự đánh giá)
+#### 2.7. Self-evaluation (Tự đánh giá)
 
 Đánh giá theo các tiêu chí sau, mỗi tiêu chí chọn **Tốt / Khá / Trung bình** và có nhận xét:
 
@@ -104,7 +112,7 @@ Mỗi event (Event 1, Event 2, …) cần có:
 * Giải quyết vấn đề
 * Đóng góp cho dự án
 
-#### 2.7. Sharing and Feedback
+#### 2.8. Sharing and Feedback
 
 * Cảm nhận về chương trình
 * Mức độ hài lòng
@@ -126,7 +134,17 @@ Project nên:
   * …
 * Sử dụng **ít nhất 3 dịch vụ AWS**
 
-#### 3.1. Project cần thể hiện được
+#### 3.1. Các yếu tố bắt buộc phải có để nhận được mộc thực tập (nếu cần)
+
+Nếu bạn có nhu cầu nhận **mộc thực tập** của chương trình, bạn cần phải có đủ tất cả yếu tố sau:
+
+* Hoàn thành Project (dự án cá nhân)
+* Hoàn thành báo cáo (link template tại phần 1.1)
+* Thời gian thực tập ít nhất 3 tháng
+* Lên văn phòng đủ 10 buổi
+* Post đủ 3 bài blogs lên nhóm [AWS Study Group](https://www.facebook.com/groups/awsstudygroupfcj)
+
+#### 3.2. Project cần thể hiện được
 
 * Thiết kế kiến trúc:
 
