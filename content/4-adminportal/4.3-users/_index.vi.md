@@ -63,7 +63,7 @@ weight: 3
 
 **Lưu ý**: Sinh viên phải đủ cả 2 điều kiện trên thì mới được cấp mộc. Quy trình cấp mộc tóm tắt như sau:
 
-
+![](/images/admin/process.png)
 
 #### Point Management
 - Quản lý cách tính điểm cộng.
