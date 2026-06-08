@@ -8,63 +8,98 @@
 },
 {
 	"uri": "http://localhost:1313/1-presencetime/",
-	"title": "Thời Gian Có Mặt",
+	"title": "1. Thời Gian Có Mặt",
 	"tags": [],
 	"description": "",
-	"content": "Nội dung về thời gian có mặt.\n"
+	"content": "Khi có sinh viên Thời gian có mặt là trước 08h30. Khi không có sinh viên Thời gian có mặt là trước 09h00. Khi tham gia hỗ trợ event Thời gian có mặt là trước 08h00. Các trường hợp khác Mọi trường hợp vắng hoặc đi trễ đều phải thông báo đến anh Thiện hoặc team để có hướng xử lý phù hợp. Tuyệt đối không đi trễ hoặc vắng mà không có lí do phù hợp. "
+},
+{
+	"uri": "http://localhost:1313/4-adminportal/4.1-registration/",
+	"title": "4.1. Registration",
+	"tags": [],
+	"description": "",
+	"content": "Trang Registration là nơi quản lý toàn bộ thông tin đăng ký của người dùng trong hệ thống. Trang này cung cấp các tính năng xem, tìm kiếm, lọc và quản lý các đơn đăng ký.\nTổng quan trang Đăng nhập Giao diện trang đăng nhập Trang Dashboard Trang Pending Approvals Tại trang này hiển thị: Số lượng sinh viên đăng ký lên văn phòng, Số lượng sinh viên được duyệt Số lượng sinh viên bị từ chối Khi click vào một ngày đăng ký, chúng ta có thể xem thông tin và trạng thái của từng sinh viên. Ví dụ ở đây chọn trạng thái Pending, hiển thị 500 bạn sinh viên. Chọn một bạn sinh viên và bấm Approved để duyệt lên văn phòng. Trang Check-in / Check-out Trang này hiển thị các bạn sinh viên đã check-in, chờ check-in hoặc vắng. Chọn một ngày và lọc theo Absent để xem sinh viên vắng ngày hôm đó. Floor config Đây là trang mở khóa lịch cho các bạn sinh viên đăng ký lên văn phòng. Sau khi hoàn thành việc book phòng với bên chị Thu. Tiến hành chọn ngày trống và mở khóa tầng 26 cho các bạn sinh viên đăng ký. Floors Trang này hiển thị số lượng được phép đăng ký ở tầng 26 Chọn điều chỉnh để tăng số lượng pending lên 600. Shifts Điều chỉnh thời gian sinh viên đăng ký lên văn phòng. Mặc định sẽ là từ 09hh00 - 17h00. Schedule Điều chỉnh thời gian mở lịch đăng ký của các ngày trong tuần. Mặc định sẽ mở từ 09hh - 17h00 tại các ngày trong tuần. Attdendance Hiển thị thời gian check-in cho các bạn sinh viên. Mặc định sẽ là từ 08h30 - 09h00, sau 09h30 sinh viên check-in sẽ được coi là đi trễ. Chúng ta có thể điều chỉnh thời gian bao lâu mới là trễ dành cho các bạn sinh viên. Thông thường sau 30 phút sẽ là trễ. Hiển thị thời gian các bạn sinh viên có thể check-out. Mặc định sẽ là từ 16h00 - 17h00. Tùy theo trường hợp mà điều chỉnh thời gian để các bạn sinh viên có thể check-out sớm. Auto Approval HÃY CẨN THẬN VỚI TRANG NÀY HÃY CẨN THẬN VỚI TRANG NÀY HÃY CẨN THẬN VỚI TRANG NÀY Đây là trang sẽ duyệt tự động các bạn sinh viên đăng ký. Bật Enable Auto-Approval và ấn Save để kích hoạt. Sau đó chọn phương thức duyệt. Mặc định sẽ chọn Fair by Approved Count Điều chỉnh số lượng duyệt. Thông thường sẽ là 100. Sau 16h00, hệ thống sẽ tiến hành duyệt random các bạn sinh viên. Lưu ý quan trọng:\nLuôn kiểm tra kỹ thông tin trước khi duyệt Đảm bảo các bạn sinh viên ít buổi sẽ được ưu tiên duyệt. Sau khi quá trình tự động duyệt hoàn tất, quay lại trang Pending Approval để kiểm tra số lượng Đồng thời truy cập Email logs để kiểm tra email đã được gửi thành công đến các bạn sinh viên đã được duyệt chưa. "
 },
 {
 	"uri": "http://localhost:1313/2-setup/",
-	"title": "Thiết Lập",
+	"title": "2. Sắp xếp bàn ghế",
 	"tags": [],
 	"description": "",
-	"content": "Nội dung về thiết lập.\n"
+	"content": "Sắp xếp bàn ghế ở tầng 26 Có mặt trước 08h30 để hỗ trợ team và hướng dẫn các bạn sinh viên sắp xếp bàn ghế.\nSơ đồ bàn ghế ở tầng 26:\nSau khi sắp xếp bàn ghế sẽ như hình sau. Sắp xếp ghế khi có event ở tầng 26 Tùy vào event chúng ta sẽ sử dụng bàn. Thông thường các event chỉ cần ghế là đủ.\nSơ đồ ghế như hình sau:\nSau khi sắp xếp ghế sẽ như hình sau:\nĐiều chỉnh nhiệt độ phòng Điều chỉnh nhiệt độ cho phù hợp với số lượng người trong phòng.\nThiết bị chỉnh nhiệt độ sẽ nằm tại đây:\nNhiệt độ lý tưởng sẽ từ 18°C đến 25°C. Không được điều chỉnh dưới 18°C vì máy lạnh sẽ không tải nổi và tự động ngắt. Báo cáo hư hỏng Trong trường hợp có thiết bị trong phòng hư hỏng, báo ngay cho anh Thiện để có hướng xử lý phù hợp. "
+},
+{
+	"uri": "http://localhost:1313/4-adminportal/4.2-job/",
+	"title": "4.2. Quản Lý Công Việc (Job Management)",
+	"tags": [],
+	"description": "",
+	"content": "Trang Job là nơi quản lý các việc làm trên thị trường. Trang này cho phép bạn đăng tải các công việc kiếm được để các bạn sinh viên apply.\nTổng quan trang Job Management Tạo công việc mới Chọn Post new job để tiến hành tạo công việc mới. Sau khi điền đầy đủ thông tin, chọn Publish job để đăng tải job. Candidates Trang này để xem các CV mà các bạn sinh viên đã apply vào các job tương ứng. Hiện tại tính năng này chưa khả dụng. "
 },
 {
 	"uri": "http://localhost:1313/3-blog/",
-	"title": "Blog",
+	"title": "3. Blog",
 	"tags": [],
 	"description": "",
-	"content": "Nội dung về blog.\n"
+	"content": "Đối với bài blog admin đăng Truy cập Blog để xem các bài blog đã dịch. Khi đã dịch xong bài blog, tick vào ô Đã posted.\nSau khi đã đăng bài blog lên AWS Study Group, click vào ô Published.\nSau khi bài được duyệt, vào phần bình luận để link gốc và link bài dịch.\nĐối với người kiểm duyệt Admin sẽ kiểm duyệt các bài blog của sinh viên và các thành viên khác trong group.\nBài blog phải đạt chất lượng về nội dung, kiến trúc, không chứa nội dung nhạy cảm và liên quan đến chính trị.\nSau khi đã xem xét, tiến hành ấn Phê duyệt hoặc Từ chối\n"
+},
+{
+	"uri": "http://localhost:1313/4-adminportal/4.3-users/",
+	"title": "4.3. Quản Lý Người Dùng",
+	"tags": [],
+	"description": "",
+	"content": "User Directory Trang này để xem tổng số Users của Portal. Click vào một user bất kỳ để xem chi tiết. Khi có sinh viên vi phạm, chọn Mark Vioation, điền các thông tin vi phạm và ấn Save. Ngoài ra, khi có sinh viên xung phong làm speaker, sau khi speak, tiến hành +1 cho sinh viên đó. Group Xem tên của tất cả nhóm kèm số lượng thành viên mỗi nhóm. Schools Xem tên của tất cả trường Đại học. Quy trình nhận mộc Vào một ngày đẹp trời, Việt đến nói với các anh chị admin rằng \u0026ldquo;Dạ thưa anh/chị, em cần mộc\u0026rdquo;. Vậy quy trình đó sẽ được diễn ra như thế nào?\nStamp Requests Truy cập vào trang Stamp Requests. Chọn Details để xem chi tiết đơn yêu cầu mộc. Chọn Download để tải file về. Kiểm tra thông tin các bạn điền có đúng hay chưa. Nếu chưa đúng, chọn Reject kèm feedback. Nếu đúng chọn Approved và các bạn sẽ đi in ra, đem lên nộp cho mình. Workshop Meterials Sau khi đã kiểm tra file xin cấp mộc, tiến hành kiểm tra Workshop của cá nhân/nhóm. Chọn Workshop của cá nhân/nhóm, bấm vào URL để xem. Nếu Workshop đạt yêu cầu, chọn Approved. Point Management Quản lý cách tính điểm cộng. Mặc định lên văn phòng 1 buổi: +10 điểm Xung phong làm speaker: +50 điểm Truy cập Leaderboard để xem xếp hạng. Violations Trang quản lý các sinh viên vi phạm. Khi phát hiện có sinh viên vi phạm, chọn Add Violation. Điền các thông tin cần thiết, sau đó ấn Mark Violation "
 },
 {
 	"uri": "http://localhost:1313/4-adminportal/",
-	"title": "Admin Portal",
+	"title": "4. Admin Portal",
 	"tags": [],
 	"description": "",
-	"content": "Nội dung về cổng quản trị.\n"
+	"content": "Admin Portal là hệ thống quản lý tập trung cho toàn bộ các chức năng và dữ liệu của ứng dụng. Tại đây, bạn có thể quản lý người dùng, đăng ký, sự kiện và nhiều tính năng khác.\nCác chức năng chính Cổng quản trị bao gồm các module sau:\n4.1. Đăng Ký (Registration) - Quản lý thông tin đăng ký của người dùng 4.2. Quản Lý Công Việc (Job Management) - Tạo, phân công và theo dõi công việc 4.3. Quản Lý Người Dùng (User Management) - Quản lý tài khoản và phân quyền 4.4. Quản Lý Thông Báo (Notifications) - Gửi và quản lý thông báo 4.5. Quản Lý Đồng Phục (Uniform) - Quản lý đồng phục nhân viên "
+},
+{
+	"uri": "http://localhost:1313/4-adminportal/4.4-notifications/",
+	"title": "4.4. Quản Lý Thông Báo (Notifications)",
+	"tags": [],
+	"description": "",
+	"content": "Notifications Center Trang này dùng để đăng thông báo các sự kiện event sắp tổ chức hoặc các thông báo liên quan đến các vấn đề thực tập của sinh viên. "
+},
+{
+	"uri": "http://localhost:1313/4-adminportal/4.5-uniform/",
+	"title": "4.5. Quản Lý Đồng Phục (Uniform)",
+	"tags": [],
+	"description": "",
+	"content": "\n"
 },
 {
 	"uri": "http://localhost:1313/5-eventsupport/",
-	"title": "Hỗ Trợ Sự Kiện",
+	"title": "5. Hỗ Trợ Sự Kiện",
 	"tags": [],
 	"description": "",
 	"content": "Nội dung về hỗ trợ sự kiện.\n"
 },
 {
 	"uri": "http://localhost:1313/6-carpentryprocess/",
-	"title": "Quy Trình Carpentry",
+	"title": "6. Quy Trình Carpentry",
 	"tags": [],
 	"description": "",
 	"content": "Nội dung về quy trình carpentry.\n"
 },
 {
 	"uri": "http://localhost:1313/7-updateworkshop/",
-	"title": "Cập Nhật Workshop",
+	"title": "7. Cập Nhật Workshop",
 	"tags": [],
 	"description": "",
 	"content": "Nội dung về cập nhật workshop.\n"
 },
 {
 	"uri": "http://localhost:1313/8-handleviolations/",
-	"title": "Xử Lý Vi Phạm",
+	"title": "8. Xử Lý Vi Phạm",
 	"tags": [],
 	"description": "",
 	"content": "Nội dung về xử lý vi phạm.\n"
 },
 {
 	"uri": "http://localhost:1313/9-summary/",
-	"title": "Tổng Kết",
+	"title": "9. Tổng Kết",
 	"tags": [],
 	"description": "",
 	"content": "Nội dung tổng kết.\n"
