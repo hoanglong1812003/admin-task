@@ -1,11 +1,11 @@
 ---
-title: "4.2. Quản Lý Công Việc (Job Management)"
+title: "4.2. Job"
 weight: 2
 ---
 
 Trang Job là nơi quản lý các việc làm trên thị trường. Trang này cho phép bạn đăng tải các công việc kiếm được để các bạn sinh viên apply.
 
-#### Tổng quan trang Job Management
+#### Tổng quan trang Job
 
 ![Job Management Overview](/images/admin/4.2-job/33.png)
 

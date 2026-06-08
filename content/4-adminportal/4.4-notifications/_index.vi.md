@@ -1,5 +1,5 @@
 ---
-title: "4.4. Quản Lý Thông Báo (Notifications)"
+title: "4.4. Notifications"
 weight: 4
 ---
 

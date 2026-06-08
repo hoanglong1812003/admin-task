@@ -1,5 +1,5 @@
 ---
-title: "4.5. Quản Lý Đồng Phục (Uniform)"
+title: "4.5. Uniform"
 weight: 5
 ---
 
