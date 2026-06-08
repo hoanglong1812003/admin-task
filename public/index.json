@@ -1,111 +1,111 @@
 [
 {
-	"uri": "https://hoanglong1812003.github.io/admin-task/",
-	"title": "Nội quy - Quy định",
+	"uri": "http://localhost:1313/admin-task/",
+	"title": "Admin Task",
 	"tags": [],
 	"description": "",
-	"content": "Nội quy - Hướng dẫn Tài liệu này quy định các tiêu chuẩn và quy tắc dành cho sinh viên thực tập tham gia chương trình First Cloud AI Journey (FCAJ) của AWS. Việc tuân thủ các quy định này là điều kiện bắt buộc để hoàn thành tốt chương trình thực tập và nhận được đánh giá cao.\nMục lục I. Nội quy\nQuy định về chuyên cần và điểm danh Quy định về thời gian và lịch thực tập Quy định về trang phục và tác phong Quy định về ra vào văn phòng Quy định về ăn uống và sử dụng đồ dùng II. Hướng dẫn\nCác nguồn tài liệu học tập Hướng dẫn đăng ký lên văn phòng Hướng dẫn gửi xe máy Hướng dẫn di chuyển lên văn phòng Hướng dẫn điểm danh III. Hướng dẫn project\nIV. Xử lý vi phạm\n"
+	"content": "Admin Task Đây là trang hướng dẫn các công việc của một admin chân chính, tài giỏi.\nQuy tắc đầu tiên: ĐỪNG BÁO.\nHãy cùng tìm hiểu nhé.\n"
 },
 {
-	"uri": "https://hoanglong1812003.github.io/admin-task/1-presencetime/",
+	"uri": "http://localhost:1313/admin-task/1-presencetime/",
 	"title": "1. Thời Gian Có Mặt",
 	"tags": [],
 	"description": "",
 	"content": "Khi có sinh viên Thời gian có mặt là trước 08h30. Khi không có sinh viên Thời gian có mặt là trước 09h00. Khi tham gia hỗ trợ event Thời gian có mặt là trước 08h00. Các trường hợp khác Mọi trường hợp vắng hoặc đi trễ đều phải thông báo đến anh Thiện hoặc team để có hướng xử lý phù hợp. Tuyệt đối không đi trễ hoặc vắng mà không có lí do phù hợp. "
 },
 {
-	"uri": "https://hoanglong1812003.github.io/admin-task/4-adminportal/4.1-registration/",
+	"uri": "http://localhost:1313/admin-task/4-adminportal/4.1-registration/",
 	"title": "4.1. Registration",
 	"tags": [],
 	"description": "",
 	"content": "Trang Registration là nơi quản lý toàn bộ thông tin đăng ký của người dùng trong hệ thống. Trang này cung cấp các tính năng xem, tìm kiếm, lọc và quản lý các đơn đăng ký.\nTổng quan trang Đăng nhập Giao diện trang đăng nhập Trang Dashboard Trang Pending Approvals Tại trang này hiển thị: Số lượng sinh viên đăng ký lên văn phòng, Số lượng sinh viên được duyệt Số lượng sinh viên bị từ chối Khi click vào một ngày đăng ký, chúng ta có thể xem thông tin và trạng thái của từng sinh viên. Ví dụ ở đây chọn trạng thái Pending, hiển thị 500 bạn sinh viên. Chọn một bạn sinh viên và bấm Approved để duyệt lên văn phòng. Trang Check-in / Check-out Trang này hiển thị các bạn sinh viên đã check-in, chờ check-in hoặc vắng. Chọn một ngày và lọc theo Absent để xem sinh viên vắng ngày hôm đó. Floor config Đây là trang mở khóa lịch cho các bạn sinh viên đăng ký lên văn phòng. Sau khi hoàn thành việc book phòng với bên chị Thu. Tiến hành chọn ngày trống và mở khóa tầng 26 cho các bạn sinh viên đăng ký. Floors Trang này hiển thị số lượng được phép đăng ký ở tầng 26 Chọn điều chỉnh để tăng số lượng pending lên 600. Shifts Điều chỉnh thời gian sinh viên đăng ký lên văn phòng. Mặc định sẽ là từ 09hh00 - 17h00. Schedule Điều chỉnh thời gian mở lịch đăng ký của các ngày trong tuần. Mặc định sẽ mở từ 09hh - 17h00 tại các ngày trong tuần. Attdendance Hiển thị thời gian check-in cho các bạn sinh viên. Mặc định sẽ là từ 08h30 - 09h00, sau 09h30 sinh viên check-in sẽ được coi là đi trễ. Chúng ta có thể điều chỉnh thời gian bao lâu mới là trễ dành cho các bạn sinh viên. Thông thường sau 30 phút sẽ là trễ. Hiển thị thời gian các bạn sinh viên có thể check-out. Mặc định sẽ là từ 16h00 - 17h00. Tùy theo trường hợp mà điều chỉnh thời gian để các bạn sinh viên có thể check-out sớm. Auto Approval HÃY CẨN THẬN VỚI TRANG NÀY HÃY CẨN THẬN VỚI TRANG NÀY HÃY CẨN THẬN VỚI TRANG NÀY Đây là trang sẽ duyệt tự động các bạn sinh viên đăng ký. Bật Enable Auto-Approval và ấn Save để kích hoạt. Sau đó chọn phương thức duyệt. Mặc định sẽ chọn Fair by Approved Count Điều chỉnh số lượng duyệt. Thông thường sẽ là 100. Sau 16h00, hệ thống sẽ tiến hành duyệt random các bạn sinh viên. Lưu ý quan trọng:\nLuôn kiểm tra kỹ thông tin trước khi duyệt Đảm bảo các bạn sinh viên ít buổi sẽ được ưu tiên duyệt. Sau khi quá trình tự động duyệt hoàn tất, quay lại trang Pending Approval để kiểm tra số lượng Đồng thời truy cập Email logs để kiểm tra email đã được gửi thành công đến các bạn sinh viên đã được duyệt chưa. "
 },
 {
-	"uri": "https://hoanglong1812003.github.io/admin-task/2-setup/",
+	"uri": "http://localhost:1313/admin-task/2-setup/",
 	"title": "2. Sắp xếp bàn ghế",
 	"tags": [],
 	"description": "",
 	"content": "Sắp xếp bàn ghế ở tầng 26 Có mặt trước 08h30 để hỗ trợ team và hướng dẫn các bạn sinh viên sắp xếp bàn ghế.\nSơ đồ bàn ghế ở tầng 26:\nSau khi sắp xếp bàn ghế sẽ như hình sau. Sắp xếp ghế khi có event ở tầng 26 Tùy vào event chúng ta sẽ sử dụng bàn. Thông thường các event chỉ cần ghế là đủ.\nSơ đồ ghế như hình sau:\nSau khi sắp xếp ghế sẽ như hình sau:\nĐiều chỉnh nhiệt độ phòng Điều chỉnh nhiệt độ cho phù hợp với số lượng người trong phòng.\nThiết bị chỉnh nhiệt độ sẽ nằm tại đây:\nNhiệt độ lý tưởng sẽ từ 18°C đến 25°C. Không được điều chỉnh dưới 18°C vì máy lạnh sẽ không tải nổi và tự động ngắt. Báo cáo hư hỏng Trong trường hợp có thiết bị trong phòng hư hỏng, báo ngay cho anh Thiện để có hướng xử lý phù hợp. "
 },
 {
-	"uri": "https://hoanglong1812003.github.io/admin-task/4-adminportal/4.2-job/",
+	"uri": "http://localhost:1313/admin-task/4-adminportal/4.2-job/",
 	"title": "4.2. Quản Lý Công Việc (Job Management)",
 	"tags": [],
 	"description": "",
 	"content": "Trang Job là nơi quản lý các việc làm trên thị trường. Trang này cho phép bạn đăng tải các công việc kiếm được để các bạn sinh viên apply.\nTổng quan trang Job Management Tạo công việc mới Chọn Post new job để tiến hành tạo công việc mới. Sau khi điền đầy đủ thông tin, chọn Publish job để đăng tải job. Candidates Trang này để xem các CV mà các bạn sinh viên đã apply vào các job tương ứng. Hiện tại tính năng này chưa khả dụng. "
 },
 {
-	"uri": "https://hoanglong1812003.github.io/admin-task/3-blog/",
+	"uri": "http://localhost:1313/admin-task/3-blog/",
 	"title": "3. Blog",
 	"tags": [],
 	"description": "",
 	"content": "Đối với bài blog admin đăng Truy cập Blog để xem các bài blog đã dịch. Khi đã dịch xong bài blog, tick vào ô Đã posted.\nSau khi đã đăng bài blog lên AWS Study Group, click vào ô Published.\nSau khi bài được duyệt, vào phần bình luận để link gốc và link bài dịch.\nĐối với người kiểm duyệt Admin sẽ kiểm duyệt các bài blog của sinh viên và các thành viên khác trong group.\nBài blog phải đạt chất lượng về nội dung, kiến trúc, không chứa nội dung nhạy cảm và liên quan đến chính trị.\nSau khi đã xem xét, tiến hành ấn Phê duyệt hoặc Từ chối\n"
 },
 {
-	"uri": "https://hoanglong1812003.github.io/admin-task/4-adminportal/4.3-users/",
+	"uri": "http://localhost:1313/admin-task/4-adminportal/4.3-users/",
 	"title": "4.3. Quản Lý Người Dùng",
 	"tags": [],
 	"description": "",
 	"content": "User Directory Trang này để xem tổng số Users của Portal. Click vào một user bất kỳ để xem chi tiết. Khi có sinh viên vi phạm, chọn Mark Vioation, điền các thông tin vi phạm và ấn Save. Ngoài ra, khi có sinh viên xung phong làm speaker, sau khi speak, tiến hành +1 cho sinh viên đó. Group Xem tên của tất cả nhóm kèm số lượng thành viên mỗi nhóm. Schools Xem tên của tất cả trường Đại học. Quy trình nhận mộc Vào một ngày đẹp trời, Việt đến nói với các anh chị admin rằng \u0026ldquo;Dạ thưa anh/chị, em cần mộc\u0026rdquo;. Vậy quy trình đó sẽ được diễn ra như thế nào?\nStamp Requests Truy cập vào trang Stamp Requests. Chọn Details để xem chi tiết đơn yêu cầu mộc. Chọn Download để tải file về. Kiểm tra thông tin các bạn điền có đúng hay chưa. Nếu chưa đúng, chọn Reject kèm feedback. Nếu đúng chọn Approved và các bạn sẽ đi in ra, đem lên nộp cho mình. Workshop Meterials Sau khi đã kiểm tra file xin cấp mộc, tiến hành kiểm tra Workshop của cá nhân/nhóm. Chọn Workshop của cá nhân/nhóm, bấm vào URL để xem. Nếu Workshop đạt yêu cầu, chọn Approved. Lưu ý: Sinh viên phải đủ cả 2 điều kiện trên thì mới được cấp mộc. Quy trình cấp mộc tóm tắt như sau:\nPoint Management Quản lý cách tính điểm cộng. Mặc định lên văn phòng 1 buổi: +10 điểm Xung phong làm speaker: +50 điểm Truy cập Leaderboard để xem xếp hạng. Violations Trang quản lý các sinh viên vi phạm. Khi phát hiện có sinh viên vi phạm, chọn Add Violation. Điền các thông tin cần thiết, sau đó ấn Mark Violation "
 },
 {
-	"uri": "https://hoanglong1812003.github.io/admin-task/4-adminportal/",
+	"uri": "http://localhost:1313/admin-task/4-adminportal/",
 	"title": "4. Admin Portal",
 	"tags": [],
 	"description": "",
 	"content": "Admin Portal là hệ thống quản lý tập trung cho toàn bộ các chức năng và dữ liệu của ứng dụng. Tại đây, bạn có thể quản lý người dùng, đăng ký, sự kiện và nhiều tính năng khác.\nCác chức năng chính Cổng quản trị bao gồm các module sau:\n4.1. Đăng Ký (Registration) - Quản lý thông tin đăng ký của người dùng 4.2. Quản Lý Công Việc (Job Management) - Tạo, phân công và theo dõi công việc 4.3. Quản Lý Người Dùng (User Management) - Quản lý tài khoản và phân quyền 4.4. Quản Lý Thông Báo (Notifications) - Gửi và quản lý thông báo 4.5. Quản Lý Đồng Phục (Uniform) - Quản lý đồng phục nhân viên "
 },
 {
-	"uri": "https://hoanglong1812003.github.io/admin-task/4-adminportal/4.4-notifications/",
+	"uri": "http://localhost:1313/admin-task/4-adminportal/4.4-notifications/",
 	"title": "4.4. Quản Lý Thông Báo (Notifications)",
 	"tags": [],
 	"description": "",
 	"content": "Notifications Center Trang này dùng để đăng thông báo các sự kiện event sắp tổ chức hoặc các thông báo liên quan đến các vấn đề thực tập của sinh viên. Điền các thông tin cần thiết, chọn Send now và ấn Send now để gửi thông báo ngay lập tức. Email Logs Trang này dùng để kiểm tra trạng thái tất cả email đã được gửi đến sinh viên. Chọn trạng thái Failed, để xem có email nào gửi không thành công không. Nếu có, ấn Retry. Lưu ý: Các cấu hình khác, vui lòng giữ nguyên. Không được chỉnh sửa. Nếu cần, hãy liên hệ anh Thiện hoặc anh Vĩ.\n"
 },
 {
-	"uri": "https://hoanglong1812003.github.io/admin-task/4-adminportal/4.5-uniform/",
+	"uri": "http://localhost:1313/admin-task/4-adminportal/4.5-uniform/",
 	"title": "4.5. Quản Lý Đồng Phục (Uniform)",
 	"tags": [],
 	"description": "",
 	"content": " Trang này dùng để quản lý danh sách đặt áo. Khi đến đợt đặt áo, hãy mở đăng ký để các bạn đặt. Áo sẽ được đặt theo đợt, vui lòng xác nhận kỹ càng thông tin trước khi mở đăng ký. Lưu ý: Các cấu hình khác, vui lòng giữ nguyên. Không được chỉnh sửa. Nếu cần, hãy liên hệ anh Thiện hoặc anh Vĩ.\n"
 },
 {
-	"uri": "https://hoanglong1812003.github.io/admin-task/5-eventsupport/",
+	"uri": "http://localhost:1313/admin-task/5-eventsupport/",
 	"title": "5. Hỗ Trợ Sự Kiện",
 	"tags": [],
 	"description": "",
 	"content": "Thời gian có mặt Thời gian có mặt khi có sự kiện là 08h00. Phân công vị trí Quẹt thẻ mở cửa: 1 bạn. Lưu ý: Khi có quá đông sinh viên, hãy nhờ bảo vệ tòa nhà hoặc lễ tân hỗ trợ.\nBấm thang: 2 bạn. Một bạn sẽ đứng lan can thang cuốn để xem khách nào là khách của mình. Một bạn sẽ đứng bấm thang máy. Lưu ý: Nếu sự kiện được tổ chức thêm tầng 36, điều động thêm 1 bạn nữa để bấm thang.\nTrực pantry: 1 bạn. Đối với event của FCAJ, đảm bảo sinh viên không được phép sử dụng đồ pantry (trừ nước lọc). Nếu là event của bên khác thì sẽ do bên đó quản lý.\nPhòng event: số lượng linh hoạt tùy theo số lượng khách tham dự. Nhiệm vụ chủ yếu sẽ điều động các bạn vào chỗ ngồi, tránh bỏ trống nhiều chỗ.\nHướng dẫn vệ sinh nam/nữ: 1 nam và 1 nữ.\nHost chương trình: 1 bạn. Trách nhiệm cao cả, đảm bảo mọi hoạt động được diễn ra trơn tru. Đảm bảo hệ thống máy chiếu, loa hoạt động tốt. Linh hoạt xử lý các tình huống khác xảy ra.\n"
 },
 {
-	"uri": "https://hoanglong1812003.github.io/admin-task/6-updateworkshop/",
+	"uri": "http://localhost:1313/admin-task/6-updateworkshop/",
 	"title": "6. Cập Nhật Workshop",
 	"tags": [],
 	"description": "",
 	"content": " Truy cập Workshop Management để xem danh sách các bài Workshop cần update. Điền tên mình vào bài Workshop mình update. Truy cập Gitlab để lấy source code về. Luôn cập nhật trạng thái đi update workshop. Dựa vào Notion để xem các yêu cầu khi update workshop. Sau khi reviewer kiểm tra hoàn tất, không có lỗi gì. Tiến hành ping anh Thiện để host workshop lên portal chính. "
 },
 {
-	"uri": "https://hoanglong1812003.github.io/admin-task/7-handleviolations/",
+	"uri": "http://localhost:1313/admin-task/7-handleviolations/",
 	"title": "7. Xử Lý Vi Phạm",
 	"tags": [],
 	"description": "",
 	"content": " Như đã thông tin tại Mark Violation thì chúng ta cũng phải linh hoạt ở một số trường hợp. Trường hợp nhẹ: Nhắc nhở, cảnh báo, còn lần sau sẽ trừ điểm. Trường hợp trung bình: Răn đe để các sinh viên khác cùng rút kinh nghiệm. Tiến hành trừ điểm, cảnh cáo lên group chung. Trường hợp nặng: Tiến hành xử lý theo quy trình tại FCAJ. Tham khảo ý kiến anh Thiện hoặc Sư phụ để có biện pháp xử lý phù hợp. Trường hợp anh Thiện hoặc Sư phụ đồng ý. Cho sinh viên thôi thực tập ngay lập tức. Gửi thông tin sinh viên vi phạm về trường để có biện pháp xử lý. Tùy theo mức độ, thông thường sẽ không bao giờ tiếp nhận lại sinh viên đã vi phạm nặng. Tóm lại: Mọi thứ đều có quy trình của nó. Đừng tự ý làm gì khi chưa có sự thông qua của người đứng đầu.\n"
 },
 {
-	"uri": "https://hoanglong1812003.github.io/admin-task/8-summary/",
+	"uri": "http://localhost:1313/admin-task/8-summary/",
 	"title": "8. Tổng Kết",
 	"tags": [],
 	"description": "",
 	"content": "Tổng Quan Hệ Thống Quản Trị Tài liệu này đã hướng dẫn toàn bộ quy trình làm việc và quản lý hệ thống Admin Portal tại FCAJ. Dưới đây là tổng kết các phần chính và những lưu ý quan trọng.\nNguyên Tắc Làm Việc Tuân thủ thời gian: Đây là yếu tố quan trọng nhất, thể hiện sự chuyên nghiệp Báo cáo kịp thời: Luôn thông báo với anh Thiện hoặc team khi có vấn đề Không tự ý xử lý: Mọi quyết định quan trọng cần sự thông qua của người đứng đầu Ghi chép đầy đủ: Cập nhật trạng thái công việc trên các công cụ quản lý Kiểm tra kỹ trước khi phê duyệt: Đặc biệt với Registration và Blog Kỹ Năng Cần Thiết Tổ chức: Sắp xếp công việc theo độ ưu tiên Giao tiếp: Phối hợp với team và sinh viên Xử lý tình huống: Linh hoạt khi có sự cố phát sinh Quản lý thời gian: Đảm bảo deadline Kỹ thuật: Nắm vững các công cụ quản lý Các Tình Huống Thường Gặp Khi Có Event Đến trước 08h00 Kiểm tra thiết bị trước khi khách đến Phân công rõ ràng vị trí cho từng người Có phương án dự phòng khi có sự cố Host phải có mặt xuyên suốt sự kiện Khi Xử Lý Vi Phạm Đánh giá đúng mức độ vi phạm Có bằng chứng cụ thể Tham khảo ý kiến cấp trên trước khi quyết định Ghi nhận lịch sử vi phạm Không được tự ý xử lý nghiêm khắc Khi Update Workshop Đăng ký trên Google Sheets trước Đọc kỹ RULES trên Notion Test kỹ trước khi gửi reviewer Cập nhật trạng thái đầy đủ Các Công Cụ Cần Nắm Vững Admin Portal: Quản lý tập trung Google Sheets: Theo dõi công việc, blog, workshop Gitlab: Quản lý source code workshop Notion: Quy tắc và hướng dẫn chi tiết AWS Study Group: Đăng blog và tương tác Lời Khuyên Cho Admin Mới ĐỪNG BÁO Tuần Đầu Tiên Đọc kỹ toàn bộ tài liệu này ít nhất 2 lần Làm quen với giao diện Admin Portal Quan sát cách admin cũ xử lý công việc Hỏi ngay khi có thắc mắc, không ngại. Tháng Đầu Tiên Thực hành với các tình huống giả định Tham gia ít nhất 2-3 event để có kinh nghiệm Review và phê duyệt blog dưới sự giám sát Bắt đầu update 1-2 workshop đơn giản Dài Hạn Xây dựng quy trình làm việc riêng hiệu quả Đóng góp ý kiến cải thiện hệ thống Chia sẻ kinh nghiệm với admin mới Phát triển kỹ năng lãnh đạo và quản lý Mindset Quan Trọng Chủ động: Không đợi được giao mới làm\nHợp tác: Làm việc nhóm hiệu quả\nHọc hỏi: Luôn cập nhật kiến thức mới\nTrách nhiệm: Hoàn thành tốt công việc được giao\nNhiệt huyết: Đam mê với công việc đang làm\nLiên Hệ Hỗ Trợ Sự phụ: Người đứng đầu, quyết định cuối cùng Anh Thiện: Tư vấn về xử lý vi phạm và các vấn đề quan trọng Admin Team: Hỗ trợ lẫn nhau trong công việc hàng ngày 🚀 Kết Luận Làm admin không chỉ là quản lý hệ thống mà còn là quản lý con người, thời gian và tình huống. Hãy luôn:\nTỉnh táo và nhạy bén trong mọi tình huống Công bằng và khách quan khi đánh giá Nhiệt tình và tận tâm với công việc Linh hoạt nhưng có nguyên tắc trong xử lý Chúc bạn thành công với vai trò Admin tại FCAJ! 🎉\n*\u0026ldquo;Mọi thứ đều có quy trình của nó.\nĐừng tự ý làm gì khi chưa có sự thông qua của người đứng đầu.\u0026rdquo;*\n\u0026ldquo;Làm đúng, làm tốt, làm kịp thời - đó là tiêu chí của một Admin xuất sắc.\u0026rdquo;\nAnh Long không nói thế\n"
 },
 {
-	"uri": "https://hoanglong1812003.github.io/admin-task/categories/",
+	"uri": "http://localhost:1313/admin-task/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://hoanglong1812003.github.io/admin-task/tags/",
+	"uri": "http://localhost:1313/admin-task/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",
