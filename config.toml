@@ -1,5 +1,5 @@
 baseURL = "https://hoanglong1812003.github.io/admin-task/"
-relativeURLs = false
+relativeURLs = true
 canonifyURLs = false
 defaultContentLanguage = "vi"
 
