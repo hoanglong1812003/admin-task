@@ -2,18 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hoanglong1812003.github.io/admin-task/en/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://hoanglong1812003.github.io/admin-task/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hoanglong1812003.github.io/admin-task/en/categories/"
-                />
-  </url><url>
     <loc>https://hoanglong1812003.github.io/admin-task/en/</loc>
     <xhtml:link
                 rel="alternate"
@@ -24,6 +12,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://hoanglong1812003.github.io/admin-task/en/"
+                />
+  </url><url>
+    <loc>https://hoanglong1812003.github.io/admin-task/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://hoanglong1812003.github.io/admin-task/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hoanglong1812003.github.io/admin-task/en/categories/"
                 />
   </url><url>
     <loc>https://hoanglong1812003.github.io/admin-task/en/tags/</loc>

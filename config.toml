@@ -15,7 +15,7 @@ home = [ "HTML", "RSS", "JSON"]
   themeVariant = "workshop"
   # Git hub repo link
   editURL = ""
-  description = ""
+  description = "Hướng dẫn công việc Admin tại FCAJ"
   author = "thienlh@thienlu.com"
   showVisitedLinks = true
   disableBreadcrumb = false
@@ -23,7 +23,7 @@ home = [ "HTML", "RSS", "JSON"]
   
 [Languages]
 [Languages.en]
-title = "Internship Report"
+title = "Admin Task"
 weight = 1
 languageName = "English"
 
@@ -34,7 +34,7 @@ url = "https://www.facebook.com/groups/awsstudygroupfcj/"
 weight = 20
 
 [Languages.vi]
-title = "Báo cáo thực tập"
+title = "Admin Task"
 weight = 2
 languageName = "Tiếng Việt"
 

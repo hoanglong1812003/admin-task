@@ -29,10 +29,10 @@
 },
 {
 	"uri": "https://hoanglong1812003.github.io/admin-task/4-adminportal/4.2-job/",
-	"title": "4.2. Quản Lý Công Việc (Job Management)",
+	"title": "4.2. Job",
 	"tags": [],
 	"description": "",
-	"content": "Trang Job là nơi quản lý các việc làm trên thị trường. Trang này cho phép bạn đăng tải các công việc kiếm được để các bạn sinh viên apply.\nTổng quan trang Job Management Tạo công việc mới Chọn Post new job để tiến hành tạo công việc mới. Sau khi điền đầy đủ thông tin, chọn Publish job để đăng tải job. Candidates Trang này để xem các CV mà các bạn sinh viên đã apply vào các job tương ứng. Hiện tại tính năng này chưa khả dụng. "
+	"content": "Trang Job là nơi quản lý các việc làm trên thị trường. Trang này cho phép bạn đăng tải các công việc kiếm được để các bạn sinh viên apply.\nTổng quan trang Job Tạo công việc mới Chọn Post new job để tiến hành tạo công việc mới. Sau khi điền đầy đủ thông tin, chọn Publish job để đăng tải job. Candidates Trang này để xem các CV mà các bạn sinh viên đã apply vào các job tương ứng. Hiện tại tính năng này chưa khả dụng. "
 },
 {
 	"uri": "https://hoanglong1812003.github.io/admin-task/3-blog/",
@@ -43,7 +43,7 @@
 },
 {
 	"uri": "https://hoanglong1812003.github.io/admin-task/4-adminportal/4.3-users/",
-	"title": "4.3. Quản Lý Người Dùng",
+	"title": "4.3. Users",
 	"tags": [],
 	"description": "",
 	"content": "User Directory Trang này để xem tổng số Users của Portal. Click vào một user bất kỳ để xem chi tiết. Khi có sinh viên vi phạm, chọn Mark Vioation, điền các thông tin vi phạm và ấn Save. Ngoài ra, khi có sinh viên xung phong làm speaker, sau khi speak, tiến hành +1 cho sinh viên đó. Group Xem tên của tất cả nhóm kèm số lượng thành viên mỗi nhóm. Schools Xem tên của tất cả trường Đại học. Quy trình nhận mộc Vào một ngày đẹp trời, Việt đến nói với các anh chị admin rằng \u0026ldquo;Dạ thưa anh/chị, em cần mộc\u0026rdquo;. Vậy quy trình đó sẽ được diễn ra như thế nào?\nStamp Requests Truy cập vào trang Stamp Requests. Chọn Details để xem chi tiết đơn yêu cầu mộc. Chọn Download để tải file về. Kiểm tra thông tin các bạn điền có đúng hay chưa. Nếu chưa đúng, chọn Reject kèm feedback. Nếu đúng chọn Approved và các bạn sẽ đi in ra, đem lên nộp cho mình. Workshop Meterials Sau khi đã kiểm tra file xin cấp mộc, tiến hành kiểm tra Workshop của cá nhân/nhóm. Chọn Workshop của cá nhân/nhóm, bấm vào URL để xem. Nếu Workshop đạt yêu cầu, chọn Approved. Lưu ý: Sinh viên phải đủ cả 2 điều kiện trên thì mới được cấp mộc. Quy trình cấp mộc tóm tắt như sau:\nPoint Management Quản lý cách tính điểm cộng. Mặc định lên văn phòng 1 buổi: +10 điểm Xung phong làm speaker: +50 điểm Truy cập Leaderboard để xem xếp hạng. Violations Trang quản lý các sinh viên vi phạm. Khi phát hiện có sinh viên vi phạm, chọn Add Violation. Điền các thông tin cần thiết, sau đó ấn Mark Violation "
@@ -53,18 +53,18 @@
 	"title": "4. Admin Portal",
 	"tags": [],
 	"description": "",
-	"content": "Admin Portal là hệ thống quản lý tập trung cho toàn bộ các chức năng và dữ liệu của ứng dụng. Tại đây, bạn có thể quản lý người dùng, đăng ký, sự kiện và nhiều tính năng khác.\nCác chức năng chính Cổng quản trị bao gồm các module sau:\n4.1. Đăng Ký (Registration) - Quản lý thông tin đăng ký của người dùng 4.2. Quản Lý Công Việc (Job Management) - Tạo, phân công và theo dõi công việc 4.3. Quản Lý Người Dùng (User Management) - Quản lý tài khoản và phân quyền 4.4. Quản Lý Thông Báo (Notifications) - Gửi và quản lý thông báo 4.5. Quản Lý Đồng Phục (Uniform) - Quản lý đồng phục nhân viên "
+	"content": "Admin Portal là hệ thống quản lý tập trung cho toàn bộ các chức năng và dữ liệu của ứng dụng. Tại đây, bạn có thể quản lý người dùng, đăng ký, sự kiện và nhiều tính năng khác.\nCác chức năng chính Cổng quản trị bao gồm các module sau:\n4.1. Registration - Quản lý thông tin đăng ký lên văn phòng của sinh viên 4.2. Job - Tạo các job trên thị trường 4.3. Users - Quản lý tài khoản và phân quyền 4.4. Notifications - Gửi và quản lý thông báo 4.5. Uniform - Quản lý đồng phục sinh viên\n"
 },
 {
 	"uri": "https://hoanglong1812003.github.io/admin-task/4-adminportal/4.4-notifications/",
-	"title": "4.4. Quản Lý Thông Báo (Notifications)",
+	"title": "4.4. Notifications",
 	"tags": [],
 	"description": "",
 	"content": "Notifications Center Trang này dùng để đăng thông báo các sự kiện event sắp tổ chức hoặc các thông báo liên quan đến các vấn đề thực tập của sinh viên. Điền các thông tin cần thiết, chọn Send now và ấn Send now để gửi thông báo ngay lập tức. Email Logs Trang này dùng để kiểm tra trạng thái tất cả email đã được gửi đến sinh viên. Chọn trạng thái Failed, để xem có email nào gửi không thành công không. Nếu có, ấn Retry. Lưu ý: Các cấu hình khác, vui lòng giữ nguyên. Không được chỉnh sửa. Nếu cần, hãy liên hệ anh Thiện hoặc anh Vĩ.\n"
 },
 {
 	"uri": "https://hoanglong1812003.github.io/admin-task/4-adminportal/4.5-uniform/",
-	"title": "4.5. Quản Lý Đồng Phục (Uniform)",
+	"title": "4.5. Uniform",
 	"tags": [],
 	"description": "",
 	"content": " Trang này dùng để quản lý danh sách đặt áo. Khi đến đợt đặt áo, hãy mở đăng ký để các bạn đặt. Áo sẽ được đặt theo đợt, vui lòng xác nhận kỹ càng thông tin trước khi mở đăng ký. Lưu ý: Các cấu hình khác, vui lòng giữ nguyên. Không được chỉnh sửa. Nếu cần, hãy liên hệ anh Thiện hoặc anh Vĩ.\n"
@@ -88,7 +88,7 @@
 	"title": "7. Xử Lý Vi Phạm",
 	"tags": [],
 	"description": "",
-	"content": " Như đã thông tin tại Mark Violation thì chúng ta cũng phải linh hoạt ở một số trường hợp. Trường hợp nhẹ: Nhắc nhở, cảnh báo, còn lần sau sẽ trừ điểm. Trường hợp trung bình: Răn đe để các sinh viên khác cùng rút kinh nghiệm. Tiến hành trừ điểm, cảnh cáo lên group chung. Trường hợp nặng: Tiến hành xử lý theo quy trình tại FCAJ. Tham khảo ý kiến anh Thiện hoặc Sư phụ để có biện pháp xử lý phù hợp. Trường hợp anh Thiện hoặc Sư phụ đồng ý. Cho sinh viên thôi thực tập ngay lập tức. Gửi thông tin sinh viên vi phạm về trường để có biện pháp xử lý. Tùy theo mức độ, thông thường sẽ không bao giờ tiếp nhận lại sinh viên đã vi phạm nặng. Tóm lại: Mọi thứ đều có quy trình của nó. Đừng tự ý làm gì khi chưa có sự thông qua của người đứng đầu.\n"
+	"content": " Như đã thông tin tại Mark Violation thì chúng ta cũng phải linh hoạt ở một số trường hợp. Trường hợp nhẹ: Nhắc nhở, cảnh báo, còn lần sau sẽ trừ điểm. Trường hợp trung bình: Răn đe để các sinh viên khác cùng rút kinh nghiệm. Tiến hành trừ điểm, cảnh cáo lên group chung. z: Tiến hành xử lý theo quy trình tại FCAJ. Tham khảo ý kiến anh Thiện hoặc Sư phụ để có biện pháp xử lý phù hợp. Trường hợp anh Thiện hoặc Sư phụ đồng ý. Cho sinh viên thôi thực tập ngay lập tức. Gửi thông tin sinh viên vi phạm về trường để có biện pháp xử lý. Tùy theo mức độ, thông thường sẽ không bao giờ tiếp nhận lại sinh viên đã vi phạm nặng. Tóm lại: Mọi thứ đều có quy trình của nó. Đừng tự ý làm gì khi chưa có sự thông qua của người đứng đầu.\n"
 },
 {
 	"uri": "https://hoanglong1812003.github.io/admin-task/8-summary/",
