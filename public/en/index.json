@@ -1,20 +1,20 @@
 [
 {
-	"uri": "https://hoanglong1812003.github.io/admin-task/en/",
+	"uri": "http://localhost:1313/admin-task/en/",
 	"title": "Admin Task",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://hoanglong1812003.github.io/admin-task/en/categories/",
+	"uri": "http://localhost:1313/admin-task/en/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://hoanglong1812003.github.io/admin-task/en/tags/",
+	"uri": "http://localhost:1313/admin-task/en/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",

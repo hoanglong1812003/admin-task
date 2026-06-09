@@ -2,67 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hoanglong1812003.github.io/admin-task/</loc>
+    <loc>http://localhost:1313/admin-task/</loc>
     <lastmod>2025-01-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hoanglong1812003.github.io/admin-task/en/"
+                href="http://localhost:1313/admin-task/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://hoanglong1812003.github.io/admin-task/"
+                href="http://localhost:1313/admin-task/"
                 />
   </url><url>
-    <loc>https://hoanglong1812003.github.io/admin-task/1-presencetime/</loc>
+    <loc>http://localhost:1313/admin-task/1-presencetime/</loc>
   </url><url>
-    <loc>https://hoanglong1812003.github.io/admin-task/4-adminportal/4.1-registration/</loc>
+    <loc>http://localhost:1313/admin-task/4-adminportal/4.1-registration/</loc>
   </url><url>
-    <loc>https://hoanglong1812003.github.io/admin-task/2-setup/</loc>
+    <loc>http://localhost:1313/admin-task/2-setup/</loc>
   </url><url>
-    <loc>https://hoanglong1812003.github.io/admin-task/4-adminportal/4.2-job/</loc>
+    <loc>http://localhost:1313/admin-task/4-adminportal/4.2-job/</loc>
   </url><url>
-    <loc>https://hoanglong1812003.github.io/admin-task/3-blog/</loc>
+    <loc>http://localhost:1313/admin-task/3-blog/</loc>
   </url><url>
-    <loc>https://hoanglong1812003.github.io/admin-task/4-adminportal/4.3-users/</loc>
+    <loc>http://localhost:1313/admin-task/4-adminportal/4.3-users/</loc>
   </url><url>
-    <loc>https://hoanglong1812003.github.io/admin-task/4-adminportal/</loc>
+    <loc>http://localhost:1313/admin-task/4-adminportal/</loc>
   </url><url>
-    <loc>https://hoanglong1812003.github.io/admin-task/4-adminportal/4.4-notifications/</loc>
+    <loc>http://localhost:1313/admin-task/4-adminportal/4.4-notifications/</loc>
   </url><url>
-    <loc>https://hoanglong1812003.github.io/admin-task/4-adminportal/4.5-uniform/</loc>
+    <loc>http://localhost:1313/admin-task/4-adminportal/4.5-uniform/</loc>
   </url><url>
-    <loc>https://hoanglong1812003.github.io/admin-task/5-eventsupport/</loc>
+    <loc>http://localhost:1313/admin-task/5-eventsupport/</loc>
   </url><url>
-    <loc>https://hoanglong1812003.github.io/admin-task/6-updateworkshop/</loc>
+    <loc>http://localhost:1313/admin-task/6-updateworkshop/</loc>
   </url><url>
-    <loc>https://hoanglong1812003.github.io/admin-task/7-handleviolations/</loc>
+    <loc>http://localhost:1313/admin-task/7-handleviolations/</loc>
   </url><url>
-    <loc>https://hoanglong1812003.github.io/admin-task/8-summary/</loc>
+    <loc>http://localhost:1313/admin-task/8-summary/</loc>
   </url><url>
-    <loc>https://hoanglong1812003.github.io/admin-task/categories/</loc>
+    <loc>http://localhost:1313/admin-task/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hoanglong1812003.github.io/admin-task/en/categories/"
+                href="http://localhost:1313/admin-task/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://hoanglong1812003.github.io/admin-task/categories/"
+                href="http://localhost:1313/admin-task/categories/"
                 />
   </url><url>
-    <loc>https://hoanglong1812003.github.io/admin-task/tags/</loc>
+    <loc>http://localhost:1313/admin-task/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hoanglong1812003.github.io/admin-task/en/tags/"
+                href="http://localhost:1313/admin-task/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://hoanglong1812003.github.io/admin-task/tags/"
+                href="http://localhost:1313/admin-task/tags/"
                 />
   </url>
 </urlset>
