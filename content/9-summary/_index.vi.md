@@ -87,8 +87,9 @@ Tài liệu này đã hướng dẫn toàn bộ quy trình làm việc và quả
 
 ## Liên Hệ Hỗ Trợ
 
-- **Sự phụ**: Người đứng đầu, quyết định cuối cùng
+- **Sư phụ**: Người đứng đầu, quyết định cuối cùng
 - **Anh Thiện**: Tư vấn về xử lý vi phạm và các vấn đề quan trọng
+- **Anh Foo**: Tư vấn vấn đề tình cảm, tình yêu đôi lứa.
 - **Admin Team**: Hỗ trợ lẫn nhau trong công việc hàng ngày
 
 ---
