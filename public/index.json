@@ -11,7 +11,7 @@
 	"title": "1. Thời Gian Có Mặt",
 	"tags": [],
 	"description": "",
-	"content": "Khi có sinh viên Thời gian có mặt là trước 08h30. Khi không có sinh viên Thời gian có mặt là trước 09h00. Khi tham gia hỗ trợ event Thời gian có mặt là trước 08h00. Các trường hợp khác Mọi trường hợp vắng hoặc đi trễ đều phải thông báo đến anh Thiện hoặc team để có hướng xử lý phù hợp. Tuyệt đối không đi trễ hoặc vắng mà không có lí do phù hợp. "
+	"content": "Khi có sinh viên Thời gian có mặt là trước 08h30. Số lượng admin tối thiểu là 3 admins. Khi không có sinh viên Thời gian có mặt là trước 09h00. Số lượng admin tối đa là 3 admins. Khi tham gia hỗ trợ event Thời gian có mặt là trước 08h00. Số lượng admin hỗ trợ, tối thiểu là 3 admins. Các trường hợp khác Mọi trường hợp vắng hoặc đi trễ đều phải thông báo đến anh Thiện hoặc team để có hướng xử lý phù hợp. Tuyệt đối không đi trễ hoặc vắng mà không có lí do phù hợp. "
 },
 {
 	"uri": "http://localhost:1313/admin-task/4-adminportal/4.1-registration/",
@@ -35,11 +35,11 @@
 	"content": "Trang Job là nơi quản lý các việc làm trên thị trường. Trang này cho phép bạn đăng tải các công việc kiếm được để các bạn sinh viên apply.\nTổng quan trang Job Tạo công việc mới Chọn Post new job để tiến hành tạo công việc mới. Sau khi điền đầy đủ thông tin, chọn Publish job để đăng tải job. Candidates Trang này để xem các CV mà các bạn sinh viên đã apply vào các job tương ứng. Hiện tại tính năng này chưa khả dụng. "
 },
 {
-	"uri": "http://localhost:1313/admin-task/3-blog/",
-	"title": "3. Blog",
+	"uri": "http://localhost:1313/admin-task/3-eventhosting/",
+	"title": "3. Tổ chức event",
 	"tags": [],
 	"description": "",
-	"content": "Đối với bài blog admin đăng Truy cập Blog để xem các bài blog đã dịch. Khi đã dịch xong bài blog, tick vào ô Đã posted.\nSau khi đã đăng bài blog lên AWS Study Group, click vào ô Published.\nSau khi bài được duyệt, vào phần bình luận để link gốc và link bài dịch.\nĐối với người kiểm duyệt Admin sẽ kiểm duyệt các bài blog của sinh viên và các thành viên khác trong group.\nBài blog phải đạt chất lượng về nội dung, kiến trúc, không chứa nội dung nhạy cảm và liên quan đến chính trị.\nSau khi đã xem xét, tiến hành ấn Phê duyệt hoặc Từ chối\n"
+	"content": "Tổng quan về cách tổ chức các event. Đối với event Meet up thứ 7 hàng tuần Check lịch xem thứ 7 này có event bên khác không? Nếu không tiến hành book phòng cho event. Thông báo về sự kiện lên tất cả group có sinh viên đang thực tập và hỏi xem có bạn nào/nhóm nào muốn xung phong lên speak không?\nNếu event đã có sẵn speaker thì không cần hỏi.\nNội dung thông báo sẽ thay đổi, tùy vào event.\n"
 },
 {
 	"uri": "http://localhost:1313/admin-task/4-adminportal/4.3-users/",
@@ -53,7 +53,7 @@
 	"title": "4. Admin Portal",
 	"tags": [],
 	"description": "",
-	"content": "Admin Portal là hệ thống quản lý tập trung cho toàn bộ các chức năng và dữ liệu của ứng dụng. Tại đây, bạn có thể quản lý người dùng, đăng ký, sự kiện và nhiều tính năng khác.\nCác chức năng chính Cổng quản trị bao gồm các module sau:\n4.1. Registration - Quản lý thông tin đăng ký lên văn phòng của sinh viên 4.2. Job - Tạo các job trên thị trường 4.3. Users - Quản lý tài khoản và phân quyền 4.4. Notifications - Gửi và quản lý thông báo 4.5. Uniform - Quản lý đồng phục sinh viên\n"
+	"content": "Admin Portal là hệ thống quản lý tập trung cho toàn bộ các chức năng và dữ liệu của ứng dụng. Tại đây, bạn có thể quản lý người dùng, đăng ký, sự kiện và nhiều tính năng khác.\n"
 },
 {
 	"uri": "http://localhost:1313/admin-task/4-adminportal/4.4-notifications/",
@@ -88,11 +88,11 @@
 	"title": "7. Xử Lý Vi Phạm",
 	"tags": [],
 	"description": "",
-	"content": " Như đã thông tin tại Mark Violation thì chúng ta cũng phải linh hoạt ở một số trường hợp. Trường hợp nhẹ: Nhắc nhở, cảnh báo, còn lần sau sẽ trừ điểm. Trường hợp trung bình: Răn đe để các sinh viên khác cùng rút kinh nghiệm. Tiến hành trừ điểm, cảnh cáo lên group chung. z: Tiến hành xử lý theo quy trình tại FCAJ. Tham khảo ý kiến anh Thiện hoặc Sư phụ để có biện pháp xử lý phù hợp. Trường hợp anh Thiện hoặc Sư phụ đồng ý. Cho sinh viên thôi thực tập ngay lập tức. Gửi thông tin sinh viên vi phạm về trường để có biện pháp xử lý. Tùy theo mức độ, thông thường sẽ không bao giờ tiếp nhận lại sinh viên đã vi phạm nặng. Tóm lại: Mọi thứ đều có quy trình của nó. Đừng tự ý làm gì khi chưa có sự thông qua của người đứng đầu.\n"
+	"content": " Như đã thông tin tại Mark Violation thì chúng ta cũng phải linh hoạt ở một số trường hợp. Trường hợp nhẹ: Nhắc nhở, cảnh báo, còn lần sau sẽ trừ điểm. Trường hợp trung bình: Răn đe để các sinh viên khác cùng rút kinh nghiệm. Tiến hành trừ điểm, cảnh cáo lên group chung. Trường hợp nặng: Tiến hành xử lý theo quy trình tại FCAJ. Tham khảo ý kiến anh Thiện hoặc Sư phụ để có biện pháp xử lý phù hợp. Trường hợp anh Thiện hoặc Sư phụ đồng ý. Cho sinh viên thôi thực tập ngay lập tức. Gửi thông tin sinh viên vi phạm về trường để có biện pháp xử lý. Tùy theo mức độ, thông thường sẽ không bao giờ tiếp nhận lại sinh viên đã vi phạm nặng. Tóm lại: Mọi thứ đều có quy trình của nó. Đừng tự ý làm gì khi chưa có sự thông qua của người đứng đầu.\n"
 },
 {
-	"uri": "http://localhost:1313/admin-task/8-summary/",
-	"title": "8. Tổng Kết",
+	"uri": "http://localhost:1313/admin-task/9-summary/",
+	"title": "9. Tổng Kết",
 	"tags": [],
 	"description": "",
 	"content": "Tổng Quan Hệ Thống Quản Trị Tài liệu này đã hướng dẫn toàn bộ quy trình làm việc và quản lý hệ thống Admin Portal tại FCAJ. Dưới đây là tổng kết các phần chính và những lưu ý quan trọng.\nNguyên Tắc Làm Việc Tuân thủ thời gian: Đây là yếu tố quan trọng nhất, thể hiện sự chuyên nghiệp Báo cáo kịp thời: Luôn thông báo với anh Thiện hoặc team khi có vấn đề Không tự ý xử lý: Mọi quyết định quan trọng cần sự thông qua của người đứng đầu Ghi chép đầy đủ: Cập nhật trạng thái công việc trên các công cụ quản lý Kiểm tra kỹ trước khi phê duyệt: Đặc biệt với Registration và Blog Kỹ Năng Cần Thiết Tổ chức: Sắp xếp công việc theo độ ưu tiên Giao tiếp: Phối hợp với team và sinh viên Xử lý tình huống: Linh hoạt khi có sự cố phát sinh Quản lý thời gian: Đảm bảo deadline Kỹ thuật: Nắm vững các công cụ quản lý Các Tình Huống Thường Gặp Khi Có Event Đến trước 08h00 Kiểm tra thiết bị trước khi khách đến Phân công rõ ràng vị trí cho từng người Có phương án dự phòng khi có sự cố Host phải có mặt xuyên suốt sự kiện Khi Xử Lý Vi Phạm Đánh giá đúng mức độ vi phạm Có bằng chứng cụ thể Tham khảo ý kiến cấp trên trước khi quyết định Ghi nhận lịch sử vi phạm Không được tự ý xử lý nghiêm khắc Khi Update Workshop Đăng ký trên Google Sheets trước Đọc kỹ RULES trên Notion Test kỹ trước khi gửi reviewer Cập nhật trạng thái đầy đủ Các Công Cụ Cần Nắm Vững Admin Portal: Quản lý tập trung Google Sheets: Theo dõi công việc, blog, workshop Gitlab: Quản lý source code workshop Notion: Quy tắc và hướng dẫn chi tiết AWS Study Group: Đăng blog và tương tác Lời Khuyên Cho Admin Mới ĐỪNG BÁO Tuần Đầu Tiên Đọc kỹ toàn bộ tài liệu này ít nhất 2 lần Làm quen với giao diện Admin Portal Quan sát cách admin cũ xử lý công việc Hỏi ngay khi có thắc mắc, không ngại. Tháng Đầu Tiên Thực hành với các tình huống giả định Tham gia ít nhất 2-3 event để có kinh nghiệm Review và phê duyệt blog dưới sự giám sát Bắt đầu update 1-2 workshop đơn giản Dài Hạn Xây dựng quy trình làm việc riêng hiệu quả Đóng góp ý kiến cải thiện hệ thống Chia sẻ kinh nghiệm với admin mới Phát triển kỹ năng lãnh đạo và quản lý Mindset Quan Trọng Chủ động: Không đợi được giao mới làm\nHợp tác: Làm việc nhóm hiệu quả\nHọc hỏi: Luôn cập nhật kiến thức mới\nTrách nhiệm: Hoàn thành tốt công việc được giao\nNhiệt huyết: Đam mê với công việc đang làm\nLiên Hệ Hỗ Trợ Sự phụ: Người đứng đầu, quyết định cuối cùng Anh Thiện: Tư vấn về xử lý vi phạm và các vấn đề quan trọng Admin Team: Hỗ trợ lẫn nhau trong công việc hàng ngày 🚀 Kết Luận Làm admin không chỉ là quản lý hệ thống mà còn là quản lý con người, thời gian và tình huống. Hãy luôn:\nTỉnh táo và nhạy bén trong mọi tình huống Công bằng và khách quan khi đánh giá Nhiệt tình và tận tâm với công việc Linh hoạt nhưng có nguyên tắc trong xử lý Chúc bạn thành công với vai trò Admin tại FCAJ! 🎉\n*\u0026ldquo;Mọi thứ đều có quy trình của nó.\nĐừng tự ý làm gì khi chưa có sự thông qua của người đứng đầu.\u0026rdquo;*\n\u0026ldquo;Làm đúng, làm tốt, làm kịp thời - đó là tiêu chí của một Admin xuất sắc.\u0026rdquo;\nAnh Long không nói thế\n"
